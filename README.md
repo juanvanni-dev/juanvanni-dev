@@ -115,3 +115,4 @@ Have a project in mind — a landing page, a full website or a long-term collabo
 <div align="center">
   <sub>Designed & built with 💙 from Santa Fe, Argentina · © 2026 Juan José Vanni</sub>
 </div>
+
