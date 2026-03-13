@@ -6,7 +6,7 @@
 
 - 📍 Ubicado en **Santa Fe, Argentina**.
 - 💼 Disponible para proyectos **Freelance**.
-- 🌐 Mi Portfolio: [juanvanni.netlify.app](https://juanvanni.netlify.app/)
+- 🌐 Mi Portfolio: https://juanjosevanni.vercel.app/
 - 📫 Contacto: [juanjovanni16@gmail.com](mailto:juanjovanni16@gmail.com)
 
 ---
