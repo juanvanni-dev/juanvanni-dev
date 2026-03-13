@@ -103,7 +103,7 @@ Have a project in mind — a landing page, a full website or a long-term collabo
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_juanjosevanni.vercel.app-000000?style=for-the-badge)](https://juanjosevanni.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanvanni/)
 [![Email](https://img.shields.io/badge/juanjovanni16@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanjovanni16@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/+54_9_342_643_7777-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493426437777)
 [![Instagram](https://img.shields.io/badge/@juanjovanni__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juanjovanni_)
